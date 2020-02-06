@@ -1,0 +1,11 @@
+1. open R Studio
+2. open both UI and server files 
+3. save both the files 
+4. click on 'Run app' button on top left corner of scripting window
+5. A new window pops-up (maximise it for better visual)
+6. There is an option of 'Open in Browser' below title bar, 
+   click on it to view the application in Browser.
+7. Play around the UI by selecting various values of support and confidence
+8. View the outputs on four separate tabs.
+9. It throws an error '0 rules found' if there are no rules for the selected 
+   combination of support and confidence. 
