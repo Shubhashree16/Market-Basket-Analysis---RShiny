@@ -11,6 +11,7 @@
 library(shiny)
 library(arules)
 library(arulesViz)
+data("Groceries")
 
 # Define server logic 
 shinyServer(function(input, output) {
